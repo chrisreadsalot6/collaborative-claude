@@ -1,3 +1,6 @@
+# Timeline
+Collaborative ChatGPT (v1 out Friday Nov 8)
+
 # Chatbot UI
 
 The open-source AI chat app for everyone.
